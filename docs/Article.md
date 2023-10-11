@@ -1,2 +1,2 @@
-Article sample 02
+Article sample 02 \
 Updated Content

@@ -1,3 +1,1 @@
-Document360
-
-Cleared data
+Welcome to Document360
